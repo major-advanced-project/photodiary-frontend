@@ -35,7 +35,7 @@ https://youtu.be/NsSTa1Wh3iM
 ## 🧠 기술 스택
 | 영역             | 사용 기술                                      |
 | -------------- | ------------------------------------------ |
-| **Framework**  | React                      |
+| **Framework**  | Next.js (React 기반)                     |
 | **Language**   | JavaScript / TypeScript (프로젝트 설정에 맞게)      |
 | **UI / 스타일링**  | Tailwind CSS                               |
 | **상태 / 서버 통신** | React Query, axios                         |
