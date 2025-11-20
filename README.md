@@ -20,3 +20,8 @@ npm run dev
 ```bash
 http://localhost:3000
 ```
+
+
+## 🚀 시연 영상  
+https://youtu.be/NsSTa1Wh3iM
+
